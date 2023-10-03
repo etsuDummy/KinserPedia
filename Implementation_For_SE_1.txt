@@ -1,0 +1,25 @@
+﻿Speech on Implementation for SE1
+Written by Bryson Brandon in Fall'23
+
+Good afternoon everyone,
+The Software Development Life Cycle (SDLC) is a structured methodology that covers several stages. Among them, the Implementation phase is pivotal as it's where the designed functionalities of software are coded and brought to life. Today, I'll delve deeper into this crucial stage to provide a comprehensive understanding of its components and significance.
+1. From Design to Code:
+   1. The Implementation phase involves converting the detailed design elements into executable code. This is a complex activity where developers use the design specifications to construct functional code that adheres to the project's requirements. It is important to carefully ensure that the work being done can be traced back to the requirements gathered as well as the design. This is most often done through a traceability matrix.
+2. Adhering to Coding Standards:
+   1. Quality and clarity are above all in coding. To ensure this, developers follow established coding standards and guidelines. This structured approach ensures that the software is not only functional but also maintainable and scalable. Proper documentation accompanies the code to aid in understanding and future modifications. Coding standards most often include things such as naming conventions, indentation rules (spaces vs. tabs), how errors and exceptions should be handled, as well as the sizes of classes and methods.
+
+3. Commenting Code
+   1. Properly commenting code is easily one of the most essential parts of the implementation phase, although often thought of as an afterthought. This often goes along with the coding standards outlined, but warrants its own point in my opinion. Comments should be written with the audience in mind, that being whoever has to read or maintain your code. Comments should be clear and concise, and explain any portion of a project which is not blatantly obvious. It can also be helpful to also explain any alternate ways a method or class could have been written. When written before starting to code, they can also act as notes to yourself as to what needs to be done.
+4. Unit Testing:
+   1. As the code is developed, it's essential to validate its correctness. This is achieved through unit testing. Each module or unit of the software is tested in isolation to ensure it performs its intended function accurately. Regular testing during the Implementation phase helps in early detection and rectification of errors. Ensuring that not only the “Happy-Path” has been implemented is another crucial part of this phase, as users can and will break your application.
+
+5. Code Review
+   1. Code should regularly be inspected and reviewed by another set of eyes other than your own. This should usually be done by someone with more experience than you, IE a senior staff member. This should be done when you think your code is ready, but before unit testing and being committed to the codebase. The reviewer should be checking that the code meets standards, meets the design and requirements, as well as if it is well written. They should be providing feedback and steering you in the right direction ideally. Another form is Pair programming. This allows for live code inspections in which a pair of developers can work together to implement a solution, switch spots on an interval and observe if the code being implemented is correct and follows the design.
+6.  Version Control:
+   1. To manage the various iterations of code and facilitate collaborative development, version control systems like Git or SVN are employed. These tools track changes, allow multiple developers to work on the same project without conflict, and offer a mechanism to revert to a previous state if needed. Developers should pull code often, and especially before committing anything (exclamation mark).
+
+7. Define what is “Done”
+   2. Lastly, it is important to define what it means for your project to be done. This could mean just reaching a “good enough” solution, or having the development team work on every feature until it is deemed optimal. If there is a working solution but no documentation, is it done? If it works on one machine but not another, is it really done? These are questions that should be defined beforehand so the team knows what is expected of them, as there is no right answer for every project.
+
+Post-Implementation, the software proceeds to the Testing phase, where it undergoes thorough evaluations against specified requirements and real-world scenarios.
+In summary, the Implementation phase in the SDLC is a rigorous process that transforms design specifications into operational code, ensuring that the end product aligns with user requirements and project goals. By understanding its components and their significance, we can better appreciate the work that goes into creating effective software.
