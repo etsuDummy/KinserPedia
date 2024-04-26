@@ -2,9 +2,9 @@ If you like one of these presentations, add a "*" after it
 If you really don't like one of these presentations, add a "#" after it
 If it doesn't exist any longer, please mark it with (BROKEN) in front of the name
 
-
 Lifecycle Models and Process
 1.	Kanban 
+    Shealy Cohan (https://www.youtube.com/watch?v=UsN2iGCXcjY)
     Richard Cashion https://www.youtube.com/watch?v=HEE-dXWcACk
     Ben Smith (https://youtu.be/L7hmpwvsZJE )
     Chris Fraser (https://youtu.be/2qZRjw9CQ2w)
@@ -13,7 +13,10 @@ Lifecycle Models and Process
     Daniel Dotson: https://youtu.be/z_k8XKWC43s
     Tanner Collins (: https://youtu.be/l6hM8OtxdxM)
 
+
 2.	Crystal (Software Development)	- 
+    Thomas Justice - https://youtu.be/EBTaM37V_HY
+    Carson Crysdale https://youtu.be/W4vMyrCOAOA
     Gabriel Ramos (https://youtu.be/RGh_hDIklrI) 
     Kyle Wittman   https://youtu.be/I2mx2YzWwLY
     Victoria Dixon:  https://youtu.be/cYh5g1Ulsqc
@@ -25,6 +28,7 @@ Lifecycle Models and Process
     Kinslee Hammonds (https://youtu.be/VgJpsxJei5I )
 
 4.a.	Build Automation - 
+    Kurt Brewer: https://www.youtube.com/watch?v=xHyQ0SNlcoY
     Jesse Arnold ( https://youtu.be/pa0RrpINh00 )
     Marisa Oliver ( https://youtu.be/SfePiksb5FA )
     Thomas Foreman https://youtu.be/psGJuTxaLIQ 
@@ -33,15 +37,20 @@ Lifecycle Models and Process
     Joshua Thomas-( https://youtu.be/cYYpxQi2IQc)
 
 4.b. 	CI/CD Pipeline - 
+    Jean Bilong  (https://youtu.be/NFIzNspNJBM)
+    David Edwards: https://youtu.be/8wqq1sWPtBI 
+    Trent Williams https://youtu.be/Z79KVNfTOU0
     Alec Fitzgerald (https://youtu.be/N3Up9p6sOm0)
     Robert LoCicero -  https://www.youtube.com/watch?v=9nSIeB2VC_M,  
     Philip Gaver-( https://youtu.be/IoTvOcRkfTk)
 
 5.  Source Control - 
-    (BROKEN) Elisha Glass ( https://youtu.be/rEPASm4dTZ0 )
+
 
 Project Management and Professional Practice
 5.	Risk Management		        - 
+    Jacob Manis & Josh Rucevice(Pair Presentation): https://youtu.be/-7S3vTBsVok 
+    Joshua Rimell: https://youtu.be/fZgO97dM_48
     Kincaid Young (https://youtu.be/pRAMCmoVHkY )
     Kinslee Hammonds & Brittany Calixto (https://youtu.be/Ti9k2aRYd_I )
     Issac Camacho - https://youtu.be/5n2Exe2jFwk
@@ -51,6 +60,7 @@ Project Management and Professional Practice
     Shaun Bennett(: https://youtu.be/W4CZy4uFxSA)
 
 6.	Software Complexity Metrics	-
+    Anthony Vandergriff - https://youtu.be/po5RPCvz2eE
     Austin Hamilton :  https://youtu.be/WeGESTV84sc
     Brandon Beaudry: https://youtu.be/NqhIDk3XG4U
     Ty Seiber ( https://youtu.be/8ZLNuLhr_Ds)
@@ -66,6 +76,7 @@ Project Management and Professional Practice
     Jackson Coffey (: https://www.youtube.com/watch?v=BmG41WfEVXk)
 
 9.	Microsoft Project - 
+    Shealy Cohan (https://youtu.be/8J3PZwa1JUk)
     Caleb Hammond(https://youtu.be/fMhoytT9XIc ), 
     Jake Eggleston (https://www.youtube.com/watch?v=Hvt6zcWV4Ts)
     Alec Ratner:  https://youtu.be/sDJfvfmKPJ4
@@ -79,10 +90,13 @@ Project Management and Professional Practice
  
 Software Architectures and Tools
 11.	Service-Oriented Architecture - 
+    Grant Scutt (https://youtu.be/mPrErsZu_aI)
+    Christopher Presnell: https://youtu.be/IlwfkKhCEZU
     Gabriel Ramos (https://youtu.be/9t1-RwG4PO4 )
     Ty Seiber ( https://youtu.be/oUg1SuqMwAY)
 
 12.	Infrastructure as a Service	- 
+    Jerry Galloway: https://youtu.be/z1Iqp2fd8Y8
     Kincaid Young (https://youtu.be/UHc7Njqwpb4)  
     Elainna Peay (https://youtu.be/y80ztmYJryc ) 
     Dylan Cowell - https://youtu.be/JeZl5ASZnJM
@@ -92,12 +106,17 @@ Software Architectures and Tools
     Michael Burleson ( https://youtu.be/mB3qf_o7M9s) (BROKEN)
 
 13.	Platform as a Service	- 
+    Joshua Rimell: https://youtu.be/1rW4HxcIgK8
     Ethan Morgan:  https://youtu.be/7Ulu7HfRMMg
     Payne Meade:  https://youtu.be/2WiG3AZ4Qqw 
     Calen Cummings ( https://youtu.be/ek8o6nYJbEQ)	, 
     Olubiyi Oluwatofunmi(  https://youtu.be/eku5zGHQZfg )
 
 14.	Docker  -
+    Logan Turbyfill (https://www.youtube.com/watch?v=oK3Olw4wlLs&list=PLLVrCqkyEWa_6qhZhzTfgVTu3WL6ywW2G&index=1) 
+    Jivan Taj (https://www.youtube.com/watch?v=HzFFTk4tlOI)
+    Tyler Burleson: https://www.youtube.com/watch?v=IOH9nD-PNh4
+    Ethan Webb: https://youtu.be/JdPNzGBp464
     Maxwell Key (https://youtu.be/wqiw3PrM1iY ), 
     Ben Smith (https://youtu.be/Oz2vgEZaEK0) *
     Dylan Lynch - https://youtu.be/N0NwD3EYnNI?si=jQxDJUvMN8jkPT3D
@@ -109,6 +128,8 @@ Software Architectures and Tools
     Cory Windham - : https://youtu.be/l1o9E5JvNSY
 
 15.	Ansible -   
+    Chris Boyle - https://www.youtube.com/watch?v=bFnz3MrJ_RE
+    Joe Nagy: https://youtu.be/Tb-WlWRkXYE
     Steven Errett (https://youtu.be/K8TzUdFFzWI) , 
     Gutu Ahmed (https://youtu.be/w2yfL1o9jvo ) 
     Elliott Kaferle:  https://youtu.be/MlSEq4JBOg4
@@ -117,6 +138,8 @@ Software Architectures and Tools
     Jackson Coffey ( https://youtu.be/Io1Z2jhbGzw)
 
 16.	Jenkins	- 
+    Sophia Herrell -  https://www.youtube.com/watch?v=yB54-mLopfU 
+    Noah Horner & Tyler Burleson (Pair)    https://www.youtube.com/watch?v=FnGDNUfVdEA
     Michael Ng (https://youtu.be/ZeBwvD4kRks ), 
     Megan Toth (https://youtu.be/nqiinPOckqY)
     Chase Walton:  https://youtu.be/884WfHYsUqo
@@ -124,6 +147,7 @@ Software Architectures and Tools
     Drew Dorris ( https://youtu.be/0HMHdmh7kQE) *
 
 17.	Splunk (for DevOps) - 
+    Patrick Vergason https://youtu.be/zJBwR8_ai4M
     Brittany Calixto (https://youtu.be/SSihhwHIGDY)
     Kyle Wittman - https://youtu.be/rIiQEHnwK2g
     Adelaide Damrau:  https://www.youtube.com/watch?v=A6aBo0vNN-w
@@ -131,6 +155,9 @@ Software Architectures and Tools
     Patrick Vergason - https://youtu.be/zJBwR8_ai4M
 
 18.	Selenium - 
+    William Roe: https://youtu.be/Qx_QwY0wVeI 
+    Dan Tucker: https://youtu.be/y3C3BcZyDT0
+    Christopher Bragg: https://youtu.be/_pC8PjZAIp0
     Jake Eggleston (https://youtu.be/4mpW9qHkB6o ), 
     Khanh Pham https://www.youtube.com/watch?v=EhOUnaJADEE
     Jacob Klucher https://youtu.be/er0K_Io_1w8
@@ -144,6 +171,9 @@ Software Architectures and Tools
 
 Development Paradigms and Testing
 20.	Test-Driven Development - 
+    Dylan Pogue: https://www.youtube.com/watch?v=wUYyYzkIKCk
+    Ethan Webb: https://www.youtube.com/watch?v=zO9xf0XhI-8 
+    Chris Upham: https://youtu.be/Cpti6seshQ0
     Michael Ng (https://youtu.be/kyXivKJOq6I ), 
     Megan Toth (https://youtu.be/j_ktD0VeM_M )
     Issac Camacho - https://youtu.be/jHQmaFS2i_w
@@ -151,6 +181,8 @@ Development Paradigms and Testing
     Christian Calhoun: (: https://youtu.be/Xr1cP_hgm1I)
 
 21.	Behavior Driven Development - 
+    Christian Crawford: https://www.youtube.com/watch?v=D4-_B8FDMj8&ab_channel=ChristianCrawford 
+    Sophia Herrell: https://youtu.be/wqZFoiomcnM
     Khanh Pham (https://youtu.be/8QQ9zDAjacg ), 
     Gutu Ahmed (https://youtu.be/o11MamyeO_s )
     DJ Jones - https://youtu.be/018F3eoASjg?si=fMC4dLG-d8DdCjOY 
@@ -160,12 +192,15 @@ Development Paradigms and Testing
     Michael Burleson (https://youtu.be/6t3C7ZVQs-A) (BROKEN)
 
 22.	Feature Driven Development - 
+    Austin Mahala: https://www.youtube.com/watch?v=3rHBkbXLqt4
+    Jackson Denti: https://youtu.be/fYSVleaUel4
     Elainna Peay https://youtu.be/_u_YORGy_IM
     Dylan Cowell - https://youtu.be/1Y8Q4Wa1_IA 
     Janine Day:  https://youtu.be/NiWvEYf5gWw
     Kyle Darnell-  https://youtu.be/SLUnmBZpx7Y
 
 23.	Dependency Injection - 
+    Bryson Brandon: https://youtu.be/GYFjs-hvKpk
     Steven Errett https://youtu.be/MNjtVGPFw6A
     Hannah Taylor: https://youtu.be/swqC0IMJWtw
     Robert LoCicero - https://www.youtube.com/watch?v=ND7__PwVSnk , 
@@ -173,7 +208,8 @@ Development Paradigms and Testing
 
 AI in SE
 24. AI for code completion - 
-    Elisha Glass ( https://youtu.be/HBDp-6iOQOI )
+    Jean Bilong  (https://youtu.be/At3zPZ8ooyU)
+    Christopher Presnell - https://youtu.be/2xfyH5HlG1A
     Charles Kinser (https://youtu.be/lHLRj1SfTmY 
     DJ Jones - https://youtu.be/4rgbGK2s--U
     Austin Hamilton:  https://youtu.be/nUh3Toglcpc, 
@@ -182,6 +218,7 @@ AI in SE
     Kyle Darnell : https://youtu.be/V1hhJSyx81E
 
 25. AI for code creation (where the AI writes all the code) - 
+    Tyson Bailey: https://www.youtube.com/watch?v=RHwsgm6T7hc
     Caleb Hammond (https://youtu.be/5izB1g_mWwo), 
     Chris Fraser (https://www.youtube.com/watch?v=IoLezifo2nU 
     Brandon Beaudry:  https://www.youtube.com/watch?v=gg9sGFtAtbU, 
@@ -190,6 +227,7 @@ AI in SE
     Raj Patel : https://youtu.be/SYNt_w5kWxc (BROKEN)
 
 26. AI for code analysis - 
+    Ethan Hensley - https://www.youtube.com/watch?v=CwEG6vbxp6k
     Richard Cashion https://youtu.be/PbU6D5BOZts 
     Matthew Lockard (https://www.youtube.com/watch?v=b7x0roGII84), 
     Marisa Oliver (https://www.youtube.com/watch?v=EH29KIo4EG8 
@@ -199,10 +237,18 @@ AI in SE
     Dante Hays(https://youtu.be/U9TiVdSQr1o) , 
     Shaun Bennett( https://youtu.be/-zMyS5q7HfE)
 
+Misc.
+
+BucStop Deployment, a how-to video - 
+    Sydnie Dery: https://youtu.be/wLctheT-7SE (Documentation: https://docs.google.com/document/d/1MbolrcHgcJCKjInjxEu2orgP7qfAPIBt_-CmevXkIew/edit)
+Grafana Overview
+    Charlie Shahan: https://www.youtube.com/watch?v=5EuPN0jz8ek
 Creating Ubuntu Server With AWS - 
     Maxwell Key (https://www.youtube.com/watch?v=i_xMj4MOoVE)
 Tutorial on how to launch an EC2 instance in AWS - 
     Chris Seals - https://youtu.be/B22d7D6SPDU?si=THdVBNXZ3zywmzX1 
+AWS
+    Carson Crysdale: https://youtu.be/M5o24K5OS1s
 AWS Elastic Beanstalk - Chris
     Seals - https://youtu.be/XcryjASJi5g?si=Zmu7vXrdVZuQADHW 
 IoT - 
@@ -215,3 +261,6 @@ Genetic Algorithms -
     Brendan Jones https://youtu.be/tx_FLlb4xs0
 Digital Forensics - 
     Josh Pitts https://www.youtube.com/watch?v=adCulpGBiks 
+Angular or React - 
+    Ryan Cooper: https://youtu.be/YMwQA7wBJyE
+    Isaac Simmons (https://youtu.be/JI7OYhvXRQE)
