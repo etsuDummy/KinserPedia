@@ -41,6 +41,7 @@ Lifecycle Models and Process
     Joshua Thomas-( https://youtu.be/cYYpxQi2IQc)
 
 4.b. 	CI/CD Pipeline - 
+    Phillip Edwards (https://youtu.be/NzHnjTNMeRw)
     Jean Bilong  (https://youtu.be/NFIzNspNJBM)
     David Edwards: https://youtu.be/8wqq1sWPtBI 
     Trent Williams https://youtu.be/Z79KVNfTOU0
@@ -52,7 +53,8 @@ Lifecycle Models and Process
 
 
 Project Management and Professional Practice
-5.	Risk Management		        - 
+5.	Risk Management		    
+    Jasmine Reisler (Part 1 https://youtu.be/GNiRRpv__i0; Part 2 https://youtu.be/YR_4qm1y2mg)- 
     Jacob Manis & Josh Rucevice(Pair Presentation): https://youtu.be/-7S3vTBsVok 
     Joshua Rimell: https://youtu.be/fZgO97dM_48
     Kincaid Young (https://youtu.be/pRAMCmoVHkY )
@@ -76,6 +78,7 @@ Project Management and Professional Practice
     Dylan Shaffer	( https://youtu.be/T6LaA6jEmxY)
 
 8.	Cleanroom Software Engineering - 
+    Yu Lee (https://youtu.be/6hG8Le9Bs_4)
     Jesse Arnold ( https://youtu.be/Qa-bLjqzBlc  )
     Payne Meade : https://youtu.be/w-umOwGedRM
     Jackson Coffey (: https://www.youtube.com/watch?v=BmG41WfEVXk)
@@ -94,13 +97,18 @@ Project Management and Professional Practice
     Reagan Mullins :  https://youtu.be/qkj6-q3slnw
  
 Software Architectures and Tools
+Angular/React - Travis Nagle (https://youtu.be/pn5txYBijoI) 
+
+
 11.	Service-Oriented Architecture - 
+    Genalyn Thomas - https://youtu.be/lznaJWeM1ow
     Grant Scutt (https://youtu.be/mPrErsZu_aI)
     Christopher Presnell: https://youtu.be/IlwfkKhCEZU
     Gabriel Ramos (https://youtu.be/9t1-RwG4PO4 )
     Ty Seiber ( https://youtu.be/oUg1SuqMwAY)
 
 12.	Infrastructure as a Service	- 
+    James Park (https://youtu.be/xBu9WnQkog8)
     Jerry Galloway: https://youtu.be/z1Iqp2fd8Y8
     Kincaid Young (https://youtu.be/UHc7Njqwpb4)  
     Elainna Peay (https://youtu.be/y80ztmYJryc ) 
@@ -117,6 +125,8 @@ Software Architectures and Tools
     Olubiyi Oluwatofunmi(  https://youtu.be/eku5zGHQZfg )
 
 14.	Docker  -
+    Andrew Garcia (https://youtu.be/x_vIIUV8AQk), 
+    Blake Lawson (https://youtu.be/Zntwx251-2o)
     Logan Turbyfill (https://www.youtube.com/watch?v=oK3Olw4wlLs&list=PLLVrCqkyEWa_6qhZhzTfgVTu3WL6ywW2G&index=1) 
     Jivan Taj (https://www.youtube.com/watch?v=HzFFTk4tlOI)
     Tyler Burleson: https://www.youtube.com/watch?v=IOH9nD-PNh4
@@ -153,6 +163,7 @@ Software Architectures and Tools
     Raseem Reedy (https://youtu.be/GguwkFfX1Uo)
 
 17.	Splunk (for DevOps) - 
+    Trent Allen https://youtu.be/HY3p2V3r1Pw
     Patrick Vergason https://youtu.be/zJBwR8_ai4M
     Brittany Calixto (https://youtu.be/SSihhwHIGDY)
     Kyle Wittman - https://youtu.be/rIiQEHnwK2g
@@ -161,6 +172,7 @@ Software Architectures and Tools
     Patrick Vergason - https://youtu.be/zJBwR8_ai4M
 
 18.	Selenium - 
+    Levi Shingleton (https://youtu.be/WnY3pbZg4KU)
     William Roe: https://youtu.be/Qx_QwY0wVeI 
     Dan Tucker: https://youtu.be/y3C3BcZyDT0
     Christopher Bragg: https://youtu.be/_pC8PjZAIp0
@@ -177,6 +189,7 @@ Software Architectures and Tools
 
 Development Paradigms and Testing
 20.	Test-Driven Development - 
+    Ethan Roberts (https://youtu.be/q43yG6HI4j4)
     Dylan Pogue: https://www.youtube.com/watch?v=wUYyYzkIKCk
     Ethan Webb: https://www.youtube.com/watch?v=zO9xf0XhI-8 
     Chris Upham: https://youtu.be/Cpti6seshQ0
@@ -223,6 +236,8 @@ AI in SE
     Kyle Darnell : https://youtu.be/V1hhJSyx81E
 
 25. AI for code creation (where the AI writes all the code) - 
+    Noah Cole (https://www.youtube.com/watch?v=iOdJWn7FvzU), 
+    Abigayle Hays (https://www.youtube.com/watch?v=J8V_nNjIbqk)
     Tyson Bailey: https://www.youtube.com/watch?v=RHwsgm6T7hc
     Caleb Hammond (https://youtu.be/5izB1g_mWwo), 
     Chris Fraser (https://www.youtube.com/watch?v=IoLezifo2nU 
@@ -244,14 +259,18 @@ Misc.
 
 BucStop Deployment, a how-to video - 
     Sydnie Dery: https://youtu.be/wLctheT-7SE (Documentation: https://docs.google.com/document/d/1MbolrcHgcJCKjInjxEu2orgP7qfAPIBt_-CmevXkIew/edit)
+Dependency Injection:
+    Tyler Waddell (https://youtu.be/ayVX1L8DEt0), 
+    Jacob Perdue (https://www.youtube.com/watch?v=94P2LMI2Wvo)
 Grafana Overview
     Charlie Shahan: https://www.youtube.com/watch?v=5EuPN0jz8ek
 Creating Ubuntu Server With AWS - 
     Maxwell Key (https://www.youtube.com/watch?v=i_xMj4MOoVE)
 Tutorial on how to launch an EC2 instance in AWS - 
     Chris Seals - https://youtu.be/B22d7D6SPDU?si=THdVBNXZ3zywmzX1 
-AWS
-    ???
+AWS or AZure
+    Grayson Burke (https://youtu.be/ujpuEb4LCXQ) , 
+    Adam Haun (https://youtu.be/IWEn313b-Lc)
 AWS Elastic Beanstalk - Chris
     Seals - https://youtu.be/XcryjASJi5g?si=Zmu7vXrdVZuQADHW 
 IoT - 
